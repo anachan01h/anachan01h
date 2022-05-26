@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello World! ☺️
 
-<!--
-**anachan01h/anachan01h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"><a href="https://github.com/anachan01h">
+    <img src="https://github-readme-stats.vercel.app/api?username=anachan01h&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anachan01h&layout=compact&langs_count=4&theme=tokyonight" />
+</a></div>
 
-Here are some ideas to get you started:
+### My Favorite Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img width="40" height="40" src="https://github.com/carlosbaraza/web-assembly-logo/blob/master/dist/icon/web-assembly-icon.svg" />
+</div>

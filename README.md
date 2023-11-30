@@ -2,38 +2,46 @@
 ----------------
 [PT-BR][portuguese]
 
-I'm Ana, I do research in Logic and I love low level programming <3
+<div style="text-align:center;">
+    <img src="./img/kurisu.gif" />
+</div>
 
-I know a little bit of Assembly, C and WebAssembly. I'm currently writing my master's thesis and studying Rust in my spare time ^-^
+My name is Ana, I do research in Logic and I love low level programming <3
+
+I'm currently a PhD student in Mathematics, focusing on Logic. Also, I have been studying compilers, planning some projects of scientific dissemination of Logic for the future ^-^
+
+---
+
+### **My interests**:
+
+ - Logic
+ - Mathematics
+ - Theory of Computation
+ - Low level programming
+ - Languages: Assembly, C, WebAssembly and Rust
 
 <div align="center"><a href="https://github.com/anachan01h">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anachan01h&layout=compact&langs_count=4&theme=tokyonight" />
 </a></div>
 
 ---
-### **My interests**:
 
- - Logic, Mathematics and Theory of Computation
- - Low level programming
- - Languages: Assembly, C, C++, Rust, WebAssembly
-
----
 ### **My projects**:
 
 In development:
- - My master's thesis
- - A library to work with Formal Logic in Rust
- - A Twitch bot in Rust
+ - [Math Board][math-board]: a virtual board that allows you to use LaTeX
 
-Already working:
- - [Learning WAT!?][learning-wat]:
-    A repository with simple examples of code written directly in WebAssembly Text Format (.wat)
- - [string.wasm][string-wasm]:
-    A simple implementation of some strings functions from libc in WebAssembly
+Studies:
+ - [Dragon's Book][dragons-book]: some codes I wrote while studying the Dragon's Book
+ - [string.wasm][string-wasm]: a simple implementation of some strings functions from libc in WebAssembly
+ - [Learning WAT!?][learning-wat]: simple examples of code written directly in WebAssembly Text Format (.wat)
+
 
 <!-- Links -->
 [learning-wat]: https://github.com/anachan01h/learning-wat
 [string-wasm]: https://github.com/anachan01h/string-wasm
+[math-board]: https://github.com/anachan01h/math-board
+[dragons-book]: https://github.com/anachan01h/dragons-book
 
 <!-- Other languages -->
 [portuguese]: https://github.com/anachan01h/anachan01h/blob/main/README.pt-br.md

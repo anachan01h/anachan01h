@@ -2,7 +2,7 @@
 ----------------
 [PT-BR][portuguese]
 
-<div style="text-align:center;">
+<div align="center">
     <img src="./img/kurisu.gif" />
 </div>
 

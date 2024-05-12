@@ -2,7 +2,7 @@
 ----------------
 
 <div align="center">
-    <img src="./img/kurisu.gif" />
+    <img src="./img/frieren.gif" />
 </div>
 
 Eu sou a Ana, faço pesquisa na área de Lógica e amo programação em baixo nível <3
@@ -31,6 +31,7 @@ Em desenvolvimento:
  - [Math Board][math-board]: um quadro virtual que permite a utilização de LaTeX
 
 Estudos:
+- [Learning C][learning-c]: minhas soluções para alguns exercícios de C
  - [Dragon's Book][dragons-book]: alguns códigos que escrevi estudando o Livro do Dragão
  - [string.wasm][string-wasm]: uma implementação simples de algumas funções de strings da libc em WebAssembly
  - [Learning WAT!?][learning-wat]: exemplos simples de códigos escritos diretamente no WebAssembly Text Format (.wat)
@@ -40,3 +41,4 @@ Estudos:
 [string-wasm]: https://github.com/anachan01h/string-wasm
 [math-board]: https://github.com/anachan01h/math-board
 [dragons-book]: https://github.com/anachan01h/dragons-book
+[learning-c]: https://github.com/anachan01h/learning-c

@@ -3,7 +3,7 @@
 [PT-BR][portuguese]
 
 <div align="center">
-    <img src="./img/kurisu.gif" />
+    <img src="./img/frieren.gif" />
 </div>
 
 My name is Ana, I do research in Logic and I love low level programming <3
@@ -32,6 +32,7 @@ In development:
  - [Math Board][math-board]: a virtual board that allows you to use LaTeX
 
 Studies:
+ - [Learning C][learning-c]: my solutions to some C exercises
  - [Dragon's Book][dragons-book]: some codes I wrote while studying the Dragon's Book
  - [string.wasm][string-wasm]: a simple implementation of some strings functions from libc in WebAssembly
  - [Learning WAT!?][learning-wat]: simple examples of code written directly in WebAssembly Text Format (.wat)
@@ -42,6 +43,7 @@ Studies:
 [string-wasm]: https://github.com/anachan01h/string-wasm
 [math-board]: https://github.com/anachan01h/math-board
 [dragons-book]: https://github.com/anachan01h/dragons-book
+[learning-c]: https://github.com/anachan01h/learning-c
 
 <!-- Other languages -->
 [portuguese]: https://github.com/anachan01h/anachan01h/blob/main/README.pt-br.md
